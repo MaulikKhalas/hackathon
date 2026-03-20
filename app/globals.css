@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222 47% 6%;
+    --foreground: 210 40% 98%;
+    --card: 222 40% 8%;
+    --card-foreground: 210 40% 98%;
+    --muted: 217 33% 14%;
+    --muted-foreground: 215 20% 55%;
+    --border: 217 25% 16%;
+    --input: 217 25% 16%;
+    --ring: 189 94% 43%;
+    --primary: 189 94% 43%;
+    --primary-foreground: 222 47% 6%;
+    --accent: 263 70% 58%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 210 40% 98%;
+    --chart-positive: 152 69% 45%;
+    --chart-neutral: 215 20% 55%;
+    --chart-negative: 0 72% 51%;
+    --radius: 0.65rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+/* subtle grid for analytics vibe */
+.analytics-grid {
+  background-image:
+    linear-gradient(hsl(var(--border) / 0.35) 1px, transparent 1px),
+    linear-gradient(90deg, hsl(var(--border) / 0.35) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+.glass-panel {
+  @apply border border-border/80 bg-card/60 shadow-xl shadow-black/40 backdrop-blur-xl;
+}

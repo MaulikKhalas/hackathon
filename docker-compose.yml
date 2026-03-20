@@ -1,0 +1,18 @@
+# Optional local Postgres for CallAura AI. Usage:
+#   docker compose up -d
+#   echo DATABASE_URL=postgresql://callaura:callaura@localhost:5432/callaura >> .env.local
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: callaura
+      POSTGRES_PASSWORD: callaura
+      POSTGRES_DB: callaura
+    volumes:
+      - callaura_pg:/var/lib/postgresql/data
+
+volumes:
+  callaura_pg:

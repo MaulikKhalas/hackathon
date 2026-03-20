@@ -1,0 +1,654 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "50699677-3648-4065-8de2-1dd4dfdaaa3d",
+      "title": "Call 1   Copy",
+      "createdAt": "2026-03-20T05:24:13.375Z",
+      "durationSec": 214,
+      "audioUrl": "/call-recordings/upload-50699677-3648-4065-8de2-1dd4dfdaaa3d.mp3",
+      "transcript": "Hi Michael, this is Kristen calling from Premier Kitchen Cabinets. I'm reaching out about the inquiry you submitted on our website regarding kitchen cabinets. Is now still a good time to talk for a few minutes? Yeah, this works. Thanks for calling back. Great, perfect. So, just to start off, could you tell me a little bit about the project? Are you planning a full kitchen remodel or are you mainly looking to replace the cabinets? Yeah, we're actually remodeling the whole kitchen. The cabinets are probably the biggest part of it though. Got it. Okay, that makes sense. And is this for your primary home or is it maybe a rental property? No, it's our primary home. Perfect. Yeah, that definitely helps because we usually recommend slightly different materials depending on how the kitchen is being used. Do you happen to know roughly the size of the kitchen? Yeah, it's about around 12 by 15 feet, roughly. Oh, nice. That's actually a really good size kitchen. Do you currently have an L-shaped layout, a U-shape or something else? Right now it's an L-shape. Okay, got it. And are you planning to keep the same layout or are you thinking about changing things up a little? I might change it slightly. My wife really wants to add an island. Yeah, that's a very common request lately. Kitchen islands are extremely popular right now because they give you extra storage and also seating space. Yeah, exactly. That's kind of the main reason we want one. Makes sense. When it comes to cabinet styles, have you seen anything online that you like so far? Maybe shaker cabinets, flat panel or more traditional raised panel designs? Yeah, I've mostly been looking online and I keep coming back to shaker cabinets. I think those look pretty good. Great choice, actually. Shaker is probably our most popular cabinet style. It works really well with modern kitchens and also transitional designs. Yeah, that sounds good. Do you have any color preference yet? Maybe white, gray, navy or natural wood tones? Hmm, probably white. White shaker cabinets are a classic choice. A lot of homeowners also pair them with a contrasting island color, like navy or gray. It adds a really nice visual balance. Oh, yeah. Actually, that sounds pretty nice. Yeah, it tends to look really sharp. Do you already have a general budget range in mind for the cabinets? Uh, I was hoping to stay somewhere around $10,000 to $12,000. That's actually a very reasonable range for a kitchen that size. Okay, good. That's good to know. What I'd recommend as the next step is scheduling a design consultation. One of our designers would review your layout and prepare a 3D kitchen design so you can actually see how everything would look. Yeah, that would definitely help. Perfect. What I'll do is send you a calendar link so you can pick a time that works best for you. Sounds good. Awesome. Michael, it was really nice talking with you today. I'll send that over shortly and we'll go from there. Great. Thanks again for the call. Bye.",
+      "segments": [
+        {
+          "id": "seg-1",
+          "startSec": 0,
+          "endSec": 5,
+          "speaker": "agent",
+          "text": "Hi Michael, this is Kristen calling from Premier Kitchen Cabinets.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-2",
+          "startSec": 5,
+          "endSec": 10,
+          "speaker": "agent",
+          "text": "I'm reaching out about the inquiry you submitted on our website regarding kitchen cabinets.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-3",
+          "startSec": 10,
+          "endSec": 13,
+          "speaker": "agent",
+          "text": "Is now still a good time to talk for a few minutes?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-4",
+          "startSec": 13,
+          "endSec": 17,
+          "speaker": "customer",
+          "text": "Yeah, this works. Thanks for calling back.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-5",
+          "startSec": 17,
+          "endSec": 23,
+          "speaker": "agent",
+          "text": "Great, perfect. So, just to start off, could you tell me a little bit about the project?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-6",
+          "startSec": 23,
+          "endSec": 28,
+          "speaker": "agent",
+          "text": "Are you planning a full kitchen remodel or are you mainly looking to replace the cabinets?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-7",
+          "startSec": 28,
+          "endSec": 34,
+          "speaker": "customer",
+          "text": "Yeah, we're actually remodeling the whole kitchen. The cabinets are probably the biggest part of it though.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-8",
+          "startSec": 34,
+          "endSec": 42,
+          "speaker": "agent",
+          "text": "Got it. Okay, that makes sense. And is this for your primary home or is it maybe a rental property?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-9",
+          "startSec": 42,
+          "endSec": 44,
+          "speaker": "customer",
+          "text": "No, it's our primary home.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-10",
+          "startSec": 44,
+          "endSec": 52,
+          "speaker": "agent",
+          "text": "Perfect. Yeah, that definitely helps because we usually recommend slightly different materials depending on how the kitchen is being used.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-11",
+          "startSec": 52,
+          "endSec": 56,
+          "speaker": "agent",
+          "text": "Do you happen to know roughly the size of the kitchen?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-12",
+          "startSec": 56,
+          "endSec": 62,
+          "speaker": "customer",
+          "text": "Yeah, it's about around 12 by 15 feet, roughly.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-13",
+          "startSec": 62,
+          "endSec": 71,
+          "speaker": "agent",
+          "text": "Oh, nice. That's actually a really good size kitchen. Do you currently have an L-shaped layout, a U-shape or something else?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-14",
+          "startSec": 71,
+          "endSec": 73,
+          "speaker": "customer",
+          "text": "Right now it's an L-shape.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-15",
+          "startSec": 73,
+          "endSec": 81,
+          "speaker": "agent",
+          "text": "Okay, got it. And are you planning to keep the same layout or are you thinking about changing things up a little?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-16",
+          "startSec": 81,
+          "endSec": 86,
+          "speaker": "customer",
+          "text": "I might change it slightly. My wife really wants to add an island.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-17",
+          "startSec": 86,
+          "endSec": 96,
+          "speaker": "agent",
+          "text": "Yeah, that's a very common request lately. Kitchen islands are extremely popular right now because they give you extra storage and also seating space.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-18",
+          "startSec": 96,
+          "endSec": 100,
+          "speaker": "customer",
+          "text": "Yeah, exactly. That's kind of the main reason we want one.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-19",
+          "startSec": 100,
+          "endSec": 113,
+          "speaker": "agent",
+          "text": "Makes sense. When it comes to cabinet styles, have you seen anything online that you like so far? Maybe shaker cabinets, flat panel or more traditional raised panel designs?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-20",
+          "startSec": 113,
+          "endSec": 121,
+          "speaker": "customer",
+          "text": "Yeah, I've mostly been looking online and I keep coming back to shaker cabinets. I think those look pretty good.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-21",
+          "startSec": 122,
+          "endSec": 133,
+          "speaker": "agent",
+          "text": "Great choice, actually. Shaker is probably our most popular cabinet style. It works really well with modern kitchens and also transitional designs.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-22",
+          "startSec": 133,
+          "endSec": 135,
+          "speaker": "customer",
+          "text": "Yeah, that sounds good.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-23",
+          "startSec": 135,
+          "endSec": 142,
+          "speaker": "agent",
+          "text": "Do you have any color preference yet? Maybe white, gray, navy or natural wood tones?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-24",
+          "startSec": 142,
+          "endSec": 145,
+          "speaker": "customer",
+          "text": "Hmm, probably white.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-25",
+          "startSec": 145,
+          "endSec": 158,
+          "speaker": "agent",
+          "text": "White shaker cabinets are a classic choice. A lot of homeowners also pair them with a contrasting island color, like navy or gray. It adds a really nice visual balance.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-26",
+          "startSec": 158,
+          "endSec": 161,
+          "speaker": "customer",
+          "text": "Oh, yeah. Actually, that sounds pretty nice.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-27",
+          "startSec": 161,
+          "endSec": 168,
+          "speaker": "agent",
+          "text": "Yeah, it tends to look really sharp. Do you already have a general budget range in mind for the cabinets?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-28",
+          "startSec": 168,
+          "endSec": 173,
+          "speaker": "customer",
+          "text": "Uh, I was hoping to stay somewhere around $10,000 to $12,000.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-29",
+          "startSec": 174,
+          "endSec": 178,
+          "speaker": "agent",
+          "text": "That's actually a very reasonable range for a kitchen that size.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-30",
+          "startSec": 178,
+          "endSec": 181,
+          "speaker": "customer",
+          "text": "Okay, good. That's good to know.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-31",
+          "startSec": 181,
+          "endSec": 194,
+          "speaker": "agent",
+          "text": "What I'd recommend as the next step is scheduling a design consultation. One of our designers would review your layout and prepare a 3D kitchen design so you can actually see how everything would look.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-32",
+          "startSec": 194,
+          "endSec": 196,
+          "speaker": "customer",
+          "text": "Yeah, that would definitely help.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-33",
+          "startSec": 196,
+          "endSec": 202,
+          "speaker": "agent",
+          "text": "Perfect. What I'll do is send you a calendar link so you can pick a time that works best for you.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-34",
+          "startSec": 202,
+          "endSec": 203,
+          "speaker": "customer",
+          "text": "Sounds good.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-35",
+          "startSec": 203,
+          "endSec": 210,
+          "speaker": "agent",
+          "text": "Awesome. Michael, it was really nice talking with you today. I'll send that over shortly and we'll go from there.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-36",
+          "startSec": 210,
+          "endSec": 213,
+          "speaker": "customer",
+          "text": "Great. Thanks again for the call.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-37",
+          "startSec": 213,
+          "endSec": 214,
+          "speaker": "customer",
+          "text": "Bye.",
+          "sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive",
+      "talkTime": {
+        "agentPct": 65,
+        "customerPct": 35
+      },
+      "scores": {
+        "clarity": 9,
+        "politeness": 10,
+        "knowledge": 9,
+        "problemHandling": 8,
+        "listening": 9
+      },
+      "discovery": [
+        {
+          "topic": "Budget",
+          "asked": true,
+          "evidence": "Customer mentioned a budget range of $10,000 to $12,000."
+        },
+        {
+          "topic": "Competitors",
+          "asked": false
+        },
+        {
+          "topic": "Kitchen size / scope",
+          "asked": true,
+          "evidence": "Customer provided kitchen dimensions and remodel details."
+        },
+        {
+          "topic": "Cabinet style",
+          "asked": true,
+          "evidence": "Customer expressed interest in shaker cabinets."
+        }
+      ],
+      "keywords": [
+        "kitchen",
+        "remodel",
+        "cabinets",
+        "shaker",
+        "budget",
+        "design",
+        "island",
+        "consultation",
+        "size",
+        "style"
+      ],
+      "actionItems": [
+        "Send calendar link for design consultation"
+      ],
+      "ingestStatus": "complete"
+    },
+    {
+      "id": "51c3380b-eca7-4872-b0cb-ed3524e608b7",
+      "title": "Call 2   Copy",
+      "createdAt": "2026-03-20T05:33:05.863Z",
+      "durationSec": 84,
+      "audioUrl": "/call-recordings/upload-51c3380b-eca7-4872-b0cb-ed3524e608b7.wav",
+      "transcript": "Hi Jessica, this is Daniel from Premier Kitchen Cabinets. I'm calling regarding the cabinet design consultation you requested. Hi Daniel. Yes, thanks for calling. I reviewed the measurements you submitted. Your kitchen layout looks great for a modern design. That's good to hear. Let me ask a few questions to understand your preferences better. Are you looking for a modern look, traditional, or something in between? Probably modern, but not too minimal. Got it. That would fall under transitional design. Yes, that sounds right. Are you planning upper cabinets across the entire wall, or do you want some open shelving? I actually like open shelves. They can look very stylish, but they do require more organization. Yeah, that's the only thing I'm worried about. What many homeowners do is combine both, upper cabinets on most walls and a small open shelf section for decor. That could work. Are you interested in glass cabinet doors as well? Maybe for a couple cabinets. That's a great choice because it breaks up the solid cabinet look. Exactly. Let's talk about hardware. Do you prefer handles, knobs, or handle-less cabinets? Probably handles. Brushed nickel or matte black are the most popular right now. I like matte black. Perfect. That pairs really well with white cabinets. Great. I'll prepare two design options, one with open shelves and one fully closed.",
+      "segments": [
+        {
+          "id": "seg-1",
+          "startSec": 0,
+          "endSec": 3.76,
+          "speaker": "agent",
+          "text": " Hi Jessica, this is Daniel from Premier Kitchen Cabinets.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-2",
+          "startSec": 3.76,
+          "endSec": 7.84,
+          "speaker": "agent",
+          "text": " I'm calling regarding the cabinet design consultation you requested.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-3",
+          "startSec": 7.84,
+          "endSec": 10.32,
+          "speaker": "customer",
+          "text": " Hi Daniel. Yes, thanks for calling.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-4",
+          "startSec": 10.32,
+          "endSec": 12.4,
+          "speaker": "agent",
+          "text": " I reviewed the measurements you submitted.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-5",
+          "startSec": 12.4,
+          "endSec": 15.28,
+          "speaker": "agent",
+          "text": " Your kitchen layout looks great for a modern design.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-6",
+          "startSec": 15.28,
+          "endSec": 16.56,
+          "speaker": "customer",
+          "text": " That's good to hear.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-7",
+          "startSec": 16.56,
+          "endSec": 20,
+          "speaker": "agent",
+          "text": " Let me ask a few questions to understand your preferences better.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-8",
+          "startSec": 20.56,
+          "endSec": 24.56,
+          "speaker": "agent",
+          "text": " Are you looking for a modern look, traditional, or something in between?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-9",
+          "startSec": 24.56,
+          "endSec": 27.44,
+          "speaker": "customer",
+          "text": " Probably modern, but not too minimal.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-10",
+          "startSec": 27.44,
+          "endSec": 30.72,
+          "speaker": "agent",
+          "text": " Got it. That would fall under transitional design.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-11",
+          "startSec": 30.72,
+          "endSec": 32.08,
+          "speaker": "customer",
+          "text": " Yes, that sounds right.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-12",
+          "startSec": 32.08,
+          "endSec": 36.88,
+          "speaker": "agent",
+          "text": " Are you planning upper cabinets across the entire wall, or do you want some open shelving?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-13",
+          "startSec": 36.88,
+          "endSec": 39.12,
+          "speaker": "customer",
+          "text": " I actually like open shelves.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-14",
+          "startSec": 39.12,
+          "endSec": 43.44,
+          "speaker": "agent",
+          "text": " They can look very stylish, but they do require more organization.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-15",
+          "startSec": 43.44,
+          "endSec": 46.32,
+          "speaker": "customer",
+          "text": " Yeah, that's the only thing I'm worried about.",
+          "sentiment": "neutral"
+        },
+        {
+          "id": "seg-16",
+          "startSec": 46.32,
+          "endSec": 48.96,
+          "speaker": "agent",
+          "text": " What many homeowners do is combine both,",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-17",
+          "startSec": 48.96,
+          "endSec": 53.12,
+          "speaker": "agent",
+          "text": " upper cabinets on most walls and a small open shelf section for decor.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-18",
+          "startSec": 53.12,
+          "endSec": 54.4,
+          "speaker": "customer",
+          "text": " That could work.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-19",
+          "startSec": 54.4,
+          "endSec": 57.04,
+          "speaker": "agent",
+          "text": " Are you interested in glass cabinet doors as well?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-20",
+          "startSec": 57.04,
+          "endSec": 58.72,
+          "speaker": "customer",
+          "text": " Maybe for a couple cabinets.",
+          "sentiment": "neutral"
+        },
+        {
+          "id": "seg-21",
+          "startSec": 59.36,
+          "endSec": 62.56,
+          "speaker": "agent",
+          "text": " That's a great choice because it breaks up the solid cabinet look.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-22",
+          "startSec": 62.56,
+          "endSec": 63.6,
+          "speaker": "customer",
+          "text": " Exactly.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-23",
+          "startSec": 63.6,
+          "endSec": 64.88,
+          "speaker": "agent",
+          "text": " Let's talk about hardware.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-24",
+          "startSec": 64.88,
+          "endSec": 68.4,
+          "speaker": "agent",
+          "text": " Do you prefer handles, knobs, or handle-less cabinets?",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-25",
+          "startSec": 68.4,
+          "endSec": 69.68,
+          "speaker": "customer",
+          "text": " Probably handles.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-26",
+          "startSec": 71.12,
+          "endSec": 74.48,
+          "speaker": "agent",
+          "text": " Brushed nickel or matte black are the most popular right now.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-27",
+          "startSec": 74.48,
+          "endSec": 75.84,
+          "speaker": "customer",
+          "text": " I like matte black.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-28",
+          "startSec": 75.84,
+          "endSec": 78.88,
+          "speaker": "agent",
+          "text": " Perfect. That pairs really well with white cabinets.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-29",
+          "startSec": 78.88,
+          "endSec": 79.6,
+          "speaker": "customer",
+          "text": " Great.",
+          "sentiment": "positive"
+        },
+        {
+          "id": "seg-30",
+          "startSec": 79.6,
+          "endSec": 83.84,
+          "speaker": "agent",
+          "text": " I'll prepare two design options, one with open shelves and one fully closed.",
+          "sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive",
+      "talkTime": {
+        "agentPct": 65,
+        "customerPct": 35
+      },
+      "scores": {
+        "clarity": 9,
+        "politeness": 8,
+        "knowledge": 9,
+        "problemHandling": 8,
+        "listening": 9
+      },
+      "discovery": [
+        {
+          "topic": "Budget",
+          "asked": false
+        },
+        {
+          "topic": "Competitors",
+          "asked": false
+        },
+        {
+          "topic": "Kitchen size / scope",
+          "asked": false
+        },
+        {
+          "topic": "Cabinet style",
+          "asked": true,
+          "evidence": "Discussed preferences for modern vs. transitional design and cabinet styles."
+        }
+      ],
+      "keywords": [
+        "cabinet design",
+        "modern",
+        "transitional",
+        "open shelves",
+        "hardware",
+        "matte black",
+        "glass doors"
+      ],
+      "actionItems": [
+        "Prepare two design options, one with open shelves and one fully closed."
+      ],
+      "ingestStatus": "complete"
+    }
+  ]
+}
